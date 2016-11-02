@@ -1,6 +1,1 @@
-<?php
-
-$rtn = "php";
-return $rtn;
-
-?>
+{"my":"123"}
